@@ -21,9 +21,14 @@ I don't claim to have contributed to the original examples and they can be found
 If you enjoyed this project and have been inspired to build one yourself, PLEASE SHARE this with other and consider visiting my website and social media!
 
 www.Rickrobotics.com
+
 www.Youtube/rickrobotics
+
 www.Facebook/rickrobotics
+
 Twitter: @GENESIS_Robot
+
+Instagram: rickrobotics
 
 Thanks!!!
 Enjoy!
